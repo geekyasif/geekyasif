@@ -21,7 +21,7 @@ I am **Mohammad Asif** . Who love to code in Python 🐍 and Javascript 🎃.
 -----
 
 - 👨‍🎓 I am currently a final year bachelor of computer application student.
-- 🌱 I’m currently trying to learn everything.
+- 🌱 I’m currently trying to explore and learn everything about web development.
 - 🤔 I’m looking for Internship in web development.
 - 📫 How to reach me: Follow me on social media.
 - ⚡ Fun fact: Sleeping with a problem can actually solve it.
