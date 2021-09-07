@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi There </h1> -->
-### Hi there :wave:
+### Hi there :wave: I am **Mohammad Asif** .
 
-I am **Mohammad Asif** . Who love to code in Python 🐍 and Javascript 🎃.
+ Who love to code in Python 🐍 and Javascript 🎃.
 📗 Blog <a href="https://www.iulforum.tech/" terget="_blank">IUL Forum</a>
 👨‍🎓 Portfolio <a href="https://geekyasif.github.io/" terget="_blank">Geeky Asif</a>
 
