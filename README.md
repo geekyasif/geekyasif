@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hi there, :wave: I'm **Mohammad Asif** - aka ( <a href="https://geekyasif.github.io/" terget="_blank">Geeky Asif</a> )
 
 I love to code in Python 🐍 and Javascript 🎃.
-📗 Blog <a href="https://www.thecompetitiveprogrammer.com/" terget="_blank">The Competitive Programmer</a>
+📗 Blog <a href="https://www.iulforum.tech/" terget="_blank">IUL FORUM</a>
 
 -----
 
