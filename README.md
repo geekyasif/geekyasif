@@ -21,9 +21,9 @@ I love to code in Python 🐍 and Javascript 🎃.
 
 -----
 
-- 👨‍🎓 I am currently a final year bachelor of computer application student.
-- 🌱 I’m currently trying to explore and learn everything about web development.
-- 🤔 I’m looking for Internship in web development.
+- 👨‍🎓 I am currently a final year master's in computer application student.
+- 🌱 I’m currently trying to explore and learn everything in web development.
+- 🤔 I’m looking for Internship/Job in web development.
 - 📫 How to reach me: Follow me on social media.
 - ⚡ Fun fact: Sleeping with a problem can actually solve it.
 
