@@ -21,7 +21,7 @@ I love to code in Python 🐍 and Javascript 🎃.
 
 -----
 
-- 👨‍🎓 I am currently a final year master's in computer application student.
+- 👨‍🎓 I am a final year master's in computer application student.
 - 🌱 I’m currently trying to explore and learn everything in web development.
 - 🤔 I’m looking for Internship/Job in web development.
 - 📫 How to reach me: Follow me on social media.
@@ -30,6 +30,7 @@ I love to code in Python 🐍 and Javascript 🎃.
 -----
 
 ![Mohammad Asif's github stats](https://github-readme-stats.vercel.app/api?username=geekyasif)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64a04ac8d99c9d6731a5efc9?variant=light)](https://roadmap.sh)
 
 
 -----
