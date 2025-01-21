@@ -5,7 +5,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -16,16 +15,15 @@ Here are some ideas to get you started:
 <!-- <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi There </h1> -->
 # Hi there, :wave: I'm **Mohammad Asif** - aka ( <a href="https://geekyasif.github.io/" terget="_blank">Geeky Asif</a> )
 
-I love to code in Python 🐍 and Javascript 🎃.
-📗 Blog <a href="https://www.iulforum.tech/" terget="_blank">IUL FORUM</a>
+I love to code in Javascript and Python.
+📗 Portfolio <a href="https://geekyasif.github.io/" terget="_blank">Personal Portfolio</a>
 
 -----
 
-- 👨‍🎓 I am a final year master's in computer application student.
-- 🌱 I’m currently trying to explore and learn everything in web development.
-- 🤔 I’m looking for Internship/Job in web development.
+- 👨‍🎓 Building Highly Scalable Web Application That Scale To The Moon.
+- 🌱 I’m currently mastering the full stack development.
 - 📫 How to reach me: Follow me on social media.
-- ⚡ Fun fact: Sleeping with a problem can actually solve it.
+- ⚡ Fun fact: Sleeping with a problem can solve it.
 
 -----
 
